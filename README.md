@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Goksel</h1>
-<h3 align="center">A Senior Computer Engineering Student trying to break into Game Development</h3>
+<h3 align="center">Computer Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokselaktas&label=Profile%20views&color=0e75b6&style=flat" alt="gokselaktas" /> </p>
-
-- 🌱 I’m currently learning **Unity🎮**
 
 - 📫 How to reach me **aktas_goksel@hotmail.com**
 
