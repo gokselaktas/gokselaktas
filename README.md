@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Goksel</h1>
-<h3 align="center">Gelişim, gelişim, yok başka işim.</h3>
+<h1 align="center">Gelişim, gelişim, yok başka işim.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokselaktas&label=Profile%20views&color=0e75b6&style=flat" alt="gokselaktas" /> </p>
 
